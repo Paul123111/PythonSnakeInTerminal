@@ -14,7 +14,7 @@ ASCII symbols: <br>
 - '|', '*', '_' - walls <br>
 
 # Arguments
-The user can optionally use the '--size' argument with three more arguments to choose the width and height of the grid, and the number of apples on the screen at once.
+The user can optionally use the '--size' argument with three more arguments to choose the width and height of the grid, and the number of apples on the screen at once. Without this argument, the game will default to a 32x32 grid with 1 apple.
 
 Example: python3 TerminalSnake.py --size 64 32 5 <br>
 Creates a 64x32 grid with 5 apples on screen at once.
@@ -22,3 +22,4 @@ Creates a 64x32 grid with 5 apples on screen at once.
 # Requirements
 - Works on Ubuntu Linux 24.04 <br>
 - Requires module 'curtsies' to be installed in the user's python environment.
+- Make sure the grid size can fit on the terminal screen
