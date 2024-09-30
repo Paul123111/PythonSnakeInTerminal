@@ -22,4 +22,4 @@ Creates a 64x32 grid with 5 apples on screen at once.
 # Requirements
 - Works on Ubuntu Linux 24.04 <br>
 - Requires module 'curtsies' to be installed in the user's python environment.
-- Make sure the grid size can fit on the terminal screen
+- Make sure the grid size can fit on the terminal screen.
