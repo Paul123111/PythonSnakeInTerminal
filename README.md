@@ -1,4 +1,4 @@
-# PythonSnakeInTerminal
+# Snake In Terminal
 This program allows the user to play the game 'Snake' on a terminal interface. <br>
 Simply create a file with the code from TerminalSnake.py in this repository and execute this file in a terminal to play Snake.
 
